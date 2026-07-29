@@ -1,0 +1,8 @@
+data/raw/
+data/clean/
+__pycache__/
+*.pyc
+.venv/
+docs/figures/*.png
+!docs/figures/.gitkeep
+.env
