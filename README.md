@@ -7,8 +7,6 @@
 > reliability — not price, not category — is the strongest predictor of
 > whether a first-time buyer ever comes back. **103** sellers, **3.5%** of the
 > marketplace, account for half of all late deliveries.
->
-> *(Fill the blanks from your own run. Never publish a number you did not measure.)*
 
 ![Dashboard overview](docs/figures/dashboard_overview.png)
 
@@ -19,9 +17,8 @@ Sellers flagged for delivery SLA action (30+ orders, 25%+ late):
 Category-level revenue and delivery quality:
 
 ![Category performance](docs/figures/dashboard_categories.png)
----
 
-## The three recommendations
+---
 
 ## The three recommendations
 
