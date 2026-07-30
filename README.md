@@ -23,15 +23,19 @@ Category-level revenue and delivery quality:
 
 ## The three recommendations
 
+## The three recommendations
+
 1. **Stop promising delivery dates you cannot hit.** Orders delivered *before*
-   the promised date average `__`/5; orders 8+ days late average `__`/5.
-   Padding the estimate costs nothing and protects the review.
-2. **Put the `__` ESCALATE-flagged sellers on a delivery SLA.** They carry
-   `__%` of revenue but generate `__%` of late deliveries — a small, tractable
-   list, not a platform-wide problem.
-3. **Trigger a save-offer on any 1–2 star first-order review within 48 hours.**
-   That cohort is `__` customers a month and repeats at `__%`; a recovery
-   campaign has a large, well-defined target.
+   the promised date average **4.30**/5; orders 8+ days late average
+   **1.70**/5. Padding the estimate costs nothing and protects the review.
+2. **Put the 10 ESCALATE-flagged sellers on a delivery SLA.** They carry
+   **0.53%** of revenue but generate **28.5%** of late deliveries — a small,
+   tractable list, not a platform-wide problem.
+3. **Do not build a review-triggered save-offer campaign.** 1-2 star
+   first-order customers repeat at 3.07% — statistically the same as the
+   3.12% baseline across all review scores. This is more confirmation that
+   review sentiment doesn't predict repeat purchase; a targeted recovery
+   campaign here would be chasing noise, not a real opportunity.
 
 ---
 
