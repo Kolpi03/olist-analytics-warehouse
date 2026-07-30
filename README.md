@@ -10,18 +10,15 @@
 >
 > *(Fill the blanks from your own run. Never publish a number you did not measure.)*
 
-![Lateness vs review score](docs/figures/lateness_vs_review.png)
-## Live dashboard
-
-![Dashboard overview](docs/figures/fig1.png)
+![Dashboard overview](docs/figures/dashboard_overview.png)
 
 Sellers flagged for delivery SLA action (30+ orders, 25%+ late):
 
-![Seller escalation list](docs/figures/fig2.png)
+![Seller escalation list](docs/figures/dashboard_sellers.png)
 
 Category-level revenue and delivery quality:
 
-![Category performance](docs/figures/fig3.png)
+![Category performance](docs/figures/dashboard_categories.png)
 ---
 
 ## The three recommendations
